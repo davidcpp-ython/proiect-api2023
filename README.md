@@ -1,2 +1,2 @@
-# proiect-api2023-ilasi-david
+# Proiect API
 
